@@ -15,5 +15,11 @@ Setiap karakter memiliki tiga kesempatan untuk bertahan, menambah tantangan dala
 
 ## Installation
   Download dan install **Python 3**  
-  Install pustaka pygame dengan perintah berikut:
-  pip install pygame
+  Install pustaka pygame dengan perintah berikut: pip install pygame
+
+## Cara Bermain
+1. Buka aplikasi **Spirit Dash**  
+2. Pilih menu **"Mulai"**  
+3. Pilih karakter yang ingin digunakan  
+4. Gunakan tombol **keyboard Up dan Spasi**, atau **klik kiri pada mouse** untuk melompat  
+5. Gunakan tombol **P** atau **ESC** untuk menghentikan sementara game
