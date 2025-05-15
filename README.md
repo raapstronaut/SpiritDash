@@ -1,11 +1,11 @@
 # Spirit Dash Tugas Besar PBO
 
 ## Anggota Kelompok
-- Muhamad Rafi Ilham  
-- Arta Eka Yuli R  
-- Devina Kartika  
-- Khairul Rijal Syauqi  
-- Diva Amelia Saputri  
+- Muhamad Rafi Ilham    (123140173)
+- Arta Eka Yuli R       (123140209)
+- Devina Kartika        (123140036)
+- Khairul Rijal Syauqi  (123140143)
+- Diva Amelia Saputri   (123140212)
 
 ## Deskripsi
 Game ini merupakan adaptasi dari konsep populer **"Flappy Bird"** dengan nuansa baru yang lebih gelap dan misterius.  
