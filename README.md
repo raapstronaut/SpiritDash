@@ -10,9 +10,9 @@ Diva Amelia Saputri
 Game ini merupakan adaptasi dari konsep populer "Flappy Bird" dengan nuansa baru yang lebih gelap dan misterius. Dengan tema “ghost” yang menampilkan karakter-karakter hantu dan suasana yang mencekam, pemain diajak untuk menguji ketangkasan mereka dalam melewati rintangan demi meraih skor tertinggi. Setiap karakter memiliki tiga kesempatan untuk bertahan, menambah tantangan dalam permainan. Game ini tidak hanya menawarkan gameplay yang sederhana namun adiktif, tetapi juga menghadirkan pengalaman visual dan atmosfer yang unik.
 
 ## Installation
-Download dan Install Python3 \n
-Install Python-Library dengan syntax :
-pip install pygame 
+Download dan Install Python3
+Install Pythin-Library dengan syntax :
+pip install pygame
 
 ## Cara Bermain
 Buka Spirit Dash
