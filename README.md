@@ -15,7 +15,7 @@ Setiap karakter memiliki tiga kesempatan untuk bertahan, menambah tantangan dala
 
 ## Installation
   Download dan install **Python 3**  
-  Install pustaka pygame dengan perintah berikut: pip install pygame
+  Install pustaka pygame dengan perintah berikut: "pip3 install pygame"
 
 ## Cara Bermain
 1. Buka aplikasi **Spirit Dash**  
