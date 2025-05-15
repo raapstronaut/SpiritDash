@@ -14,5 +14,6 @@ Dengan tema *ghost* yang menampilkan karakter-karakter hantu dan suasana yang me
 Setiap karakter memiliki tiga kesempatan untuk bertahan, menambah tantangan dalam permainan. Game ini tidak hanya menawarkan gameplay yang sederhana namun adiktif, tetapi juga menghadirkan pengalaman visual dan atmosfer yang unik.
 
 ## Installation
-1. Download dan install **Python 3**  
-2. Install pustaka pygame dengan perintah berikut:
+  Download dan install **Python 3**  
+  Install pustaka pygame dengan perintah berikut:
+  pip install pygame
