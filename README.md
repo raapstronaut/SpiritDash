@@ -7,7 +7,9 @@
 
 ## Deskripsi Proyek
 
-**"The Adventure of Atra"** - adalah game petualangan dengan tema eksplorasi museum. Dalam game ini, pemain akan memerankan karakter Atra, seorang petualang muda yang menjelajahi museum untuk belajar dan mengetahui lebih banyak tentang budaya Sumatera. Pemain akan menyelesaikan berbagai teka-teki dan misi untuk mengungkap cerita sejarah dan budaya yang tersembunyi di dalam museum. Game ini menawarkan pengalaman bermain yang santai dan edukatif, yang cocok untuk semua kalangan, terutama bagi mereka yang ingin memperluas pengetahuan mereka tentang budaya Indonesia.
+**"SPIRIT DASH"** - Spirit Dash adalah sebuah game aksi 2D bertema supranatural yang terinspirasi dari gameplay sederhana dan adiktif ala Flappy Bird, namun hadir dengan mekanisme yang lebih unik, strategis, dan menantang. Dalam game ini, pemain mengendalikan karakter hantu yang harus terus melaju melewati berbagai rintangan yang semakin sulit seiring waktu. Tujuan utama dari game ini adalah membantu karakter hantu terus melaju dan melewati berbagai rintangan sebanyak mungkin untuk mengumpulkan poin tertinggi, sekaligus menjaga agar karakter tetap bertahan hidup. Game ini mengusung tema supranatural dan horor ringan, dengan latar lingkungan yang gelap, misterius, dan dipenuhi suasana mistis.
+Pemain diberikan tiga kesempatan (nyawa). Jika karakter gagal menghindari rintangan sebanyak tiga kali, maka permainan akan berakhir dan skor akhir akan ditampilkan.
+
 
 ---
 
