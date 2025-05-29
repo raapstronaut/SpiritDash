@@ -40,14 +40,13 @@ Pemain diberikan tiga kesempatan (nyawa). Jika karakter gagal menghindari rintan
 
 ## Kontributor
 
-| Nama                      | NIM         | Kontribusi                      | Github                       |
-|---------------------------|-------------|---------------------------------|-----------------------------|
-| Joshua Palti Sinaga       | 122140141   | Project Leader, Programmer      | [jo0707](https://github.com/jo0707) |
-| Ikhsanuddin Lathief       | 122140137   | Programmer, Designer, Researcher| [teepp1a](https://github.com/teepp1a) |
-| Irma Amelia Novianti      | 122140128   | Programmer, Designer, Researcher| [irmaamelia45](https://github.com/irmaamelia45) |
-| Alfajar                   | 122140122   | Programmer, Designer, Researcher| [xa-4104](https://github.com/xa-4104) |
-| Sabita Hamdunna Syafitri  | 122140154   | Lead Designer, Programmer       | [SabitaOnitsuga](https://github.com/SabitaOnitsuga) |
-| Yos Berman Panjaitan      | 121140185   | Programmer, Designer             | [121140185](https://github.com/121140185) |
+| Nama                      | NIM         | Kontribusi                           |
+|---------------------------|-------------|--------------------------------------|
+| Muhamad Rafi Ilham        | 123140173   | Programmer, Asset Handler            |
+| Devina Kartika            | 123140036   | Slide Designer, Report Contributor   |
+| Khairul Rijal Syauqi      | 123140143   | Programmer, Intregrator              |
+| Arta Eka Yuli R           | 123140209   | Video Editor, Report Contributor     |
+| Diva Amelia Saputri       | 122140212   | System Designer, Report Contributor  |     
 
 ---
 
