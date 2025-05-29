@@ -22,41 +22,19 @@ Pemain diberikan tiga kesempatan (nyawa). Jika karakter gagal menghindari rintan
 
 ## Cara Bermain
 
-Pemain akan memerankan karakter Atra, seorang petualang muda yang bersemangat untuk belajar dan menjelajahi kekayaan budaya Sumatera. Petualangan dimulai di dalam museum yang menawarkan berbagai ruangan yang berisi budaya dari berbagai provinsi untuk dijelajahi, seperti Provinsi Lampung, Provinsi Sumatera Utara, dan Provinsi Sumatera Barat.
 
-Setiap ruangan di museum mungkin menyimpan rahasia dan teka-teki yang harus dipecahkan oleh pemain. Pemain dapat menggunakan kontrol untuk memandu Atra melalui museum. Atra dapat bergerak ke empat arah menggunakan tombol **WASD** atau panah pada keyboard, sambil berinteraksi dengan berbagai item dan objek.
 
 ---
 
 ## Cara Menjalankan
 
-1. Clone repository ini
-    ```bash
-    git clone https://github.com/jo0707/the-adventure-of-atra.git
-    ```
 
-2. Pindah ke direktori proyek
-    ```bash
-    cd the-adventure-of-atra
-    ```
-
-3. Install pygame
-    ```bash
-    pip install pygame
-    ```
-
-4. Jalankan game
-    ```bash
-    python main.py
-    # atau
-    python3 main.py
-    ```
 
 ---
 
 ## UML Class Diagram
 
-![UML Class Diagram](url-untuk-uml.png)
+
 
 ---
 
@@ -75,13 +53,9 @@ Setiap ruangan di museum mungkin menyimpan rahasia dan teka-teki yang harus dipe
 
 ## Referensi
 
-- [Design Patterns and Video Games](#)
-- [PyGame Tutorial: Centralized Scene Logic](#)
-- [pygame.org - TUT_DESIGN](#)
-- [PyGame: A Primer on Game Programming in Python](#)
 
 **Referensi Game:**  
-- [Stardew Valley](#)
+- [Flappy Bird](#)
 
 ---
 
