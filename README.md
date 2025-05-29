@@ -2,7 +2,6 @@
 
 ![Game Screenshot](url-untuk-screenshot.png)
 
-[English](#) | [Indonesia](#)
 
 ---
 
