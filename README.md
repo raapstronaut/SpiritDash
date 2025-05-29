@@ -15,10 +15,8 @@ Pemain diberikan tiga kesempatan (nyawa). Jika karakter gagal menghindari rintan
 
 ## Library, Framework & Alat yang Digunakan
 
-- [Python 3.11](https://www.python.org/downloads/release/python-3110/)
+- [Python](https://www.python.org/downloads/)
 - [Pygame](https://www.pygame.org/)
-
-**Pastikan Python 3.11 terinstal di komputer Anda (versi lain mungkin tidak berfungsi)**
 
 ---
 
