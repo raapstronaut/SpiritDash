@@ -47,7 +47,7 @@ Pemain diberikan tiga kesempatan (nyawa). Jika karakter gagal menghindari rintan
 
 ## UML Class Diagram
 
-![UML DIAGRAM] (screenshot/real-pbo.png)
+![UML DIAGRAM] (screenshoot/real pbo.png)
 
 
 ---
