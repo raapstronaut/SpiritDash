@@ -15,8 +15,12 @@ Pemain diberikan tiga kesempatan (nyawa). Jika karakter gagal menghindari rintan
 ---
 
 ## Cara Bermain
-
-
+Buka Spirit Dash
+Pilih menu "Mulai"
+Pilih Character yang ingin digunakan
+Klik Button Start
+Gunakan Tombol Spasi, atau klik kiri pada mouse
+Gunakan Tombol P atau ESC untuk menghentikan game sementara
 
 ---
 
