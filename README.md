@@ -1,10 +1,4 @@
 # SPIRIT DASH
-
-![Game Screenshot](url-untuk-screenshot.png)
-
-
----
-
 ## Deskripsi Proyek
 
 **"SPIRIT DASH"** - Spirit Dash adalah sebuah game aksi 2D bertema supranatural yang terinspirasi dari gameplay sederhana dan adiktif ala Flappy Bird, namun hadir dengan mekanisme yang lebih unik, strategis, dan menantang. Dalam game ini, pemain mengendalikan karakter hantu yang harus terus melaju melewati berbagai rintangan yang semakin sulit seiring waktu. Tujuan utama dari game ini adalah membantu karakter hantu terus melaju dan melewati berbagai rintangan sebanyak mungkin untuk mengumpulkan poin tertinggi, sekaligus menjaga agar karakter tetap bertahan hidup. Game ini mengusung tema supranatural dan horor ringan, dengan latar lingkungan yang gelap, misterius, dan dipenuhi suasana mistis.
@@ -25,6 +19,14 @@ Pemain diberikan tiga kesempatan (nyawa). Jika karakter gagal menghindari rintan
 
 
 ---
+
+## Screnshoot
+![Game Menu](screenshoot/gamemenu.jpg)
+![Gotoku](screenshoot/gotoku.jpg)
+![Onre](screenshoot/onre.jpg)
+![Yurei](screenshoot/yurei.jpg)
+![Game Over](screenshoot/gameover.jpg)
+
 
 ## Cara Menjalankan
 1. Clone Repository ini:
@@ -49,7 +51,6 @@ Pemain diberikan tiga kesempatan (nyawa). Jika karakter gagal menghindari rintan
 
 ![UML Class Diagram](screenshoot/umlpbo.png)
 
-
 ---
 
 ## Kontributor
@@ -63,9 +64,6 @@ Pemain diberikan tiga kesempatan (nyawa). Jika karakter gagal menghindari rintan
 | Diva Amelia Saputri       | 122140212   | System Designer, Report Contributor  |     
 
 ---
-
-## Referensi
-
 
 **Referensi Game:**  
 - [Flappy Bird](#)
