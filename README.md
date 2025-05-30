@@ -36,7 +36,7 @@ Pemain diberikan tiga kesempatan (nyawa). Jika karakter gagal menghindari rintan
 ## Cara Menjalankan
 1. Clone Repository ini:
    ```bash
-   git clone https://github.com/rapstronaut/SpiritDash.git
+   git clone https://github.com/raapstronaut/SpiritDash.git
    ```
 2. Pindah ke direktori proyek:
    ```bash
