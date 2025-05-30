@@ -27,9 +27,22 @@ Pemain diberikan tiga kesempatan (nyawa). Jika karakter gagal menghindari rintan
 ---
 
 ## Cara Menjalankan
-
-
-
+1. Clone Repository ini:
+   ```bash
+   git clone https://github.com/rapstronaut/SpiritDash.git
+   ```
+2. Pindah ke direktori proyek:
+   ```bash
+   cd SpiritDash
+   ```
+3. Install pygame:
+   ```bash
+   pip install pygame
+   ```
+4. Jalankan Gamenya:
+   ```bash
+   python main.py
+   ```
 ---
 
 ## UML Class Diagram
