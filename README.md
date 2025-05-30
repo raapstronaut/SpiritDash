@@ -11,6 +11,7 @@ Pemain diberikan tiga kesempatan (nyawa). Jika karakter gagal menghindari rintan
 
 - [Python](https://www.python.org/downloads/)
 - [Pygame](https://www.pygame.org/)
+- [VsCode](https://code.visualstudio.com/)
 
 ---
 
